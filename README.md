@@ -14,6 +14,7 @@ Below you will find a screenshot of the whole web page.
 
 2. Once the "Generate Password" button is clicked, the following prompts are shown to determine which types of character are used.
 
+![ScreenShot](/assets/length check.png)
 ![ScreenShot](/assets/IncludeLowercase.png)
 ![ScreenShot](/assets/IncludeUppercase.png)
 ![ScreenShot](/assets/IncludeNumeric.png)
