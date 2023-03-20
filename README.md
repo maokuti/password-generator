@@ -14,11 +14,11 @@ Below you will find a screenshot of the whole web page.
 
 2. Once the "Generate Password" button is clicked, the following prompts are shown to determine which types of character are used.
 
-![ScreenShot](/images/IncludeLowercase.png)
-![ScreenShot](/images/IncludeUppercase.png)
-![ScreenShot](/images/IncludeNumeric.png)
-![ScreenShot](/images/IncludeSpecial.png)
+![ScreenShot](/assets/IncludeLowercase.png)
+![ScreenShot](/assets/IncludeUppercase.png)
+![ScreenShot](/assets/IncludeNumeric.png)
+![ScreenShot](/assets/IncludeSpecial.png)
 
 3. Finally, the generated password is shown.
 
-![ScreenShot](/images/generatedpassword.png)
+![ScreenShot](/assets/generatedpassword.png)
