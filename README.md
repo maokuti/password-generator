@@ -10,7 +10,7 @@ Below you will find a screenshot of the whole web page.
 
 1. This is how the webpage opens.
 
-![ScreenShot](/images/initial webpage.png)
+![ScreenShot](/assets/initial webpage.png)
 
 2. Once the "Generate Password" button is clicked, the following prompts are shown to determine which types of character are used.
 
@@ -22,3 +22,7 @@ Below you will find a screenshot of the whole web page.
 3. Finally, the generated password is shown.
 
 ![ScreenShot](/assets/generatedpassword.png)
+
+# Link to Deployed Application
+
+https://maokuti.github.io/password-generator/
